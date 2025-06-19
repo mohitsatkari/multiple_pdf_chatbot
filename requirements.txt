@@ -1,0 +1,14 @@
+unstructured
+tiktoken
+pinecone
+pypdf
+openai
+langchain
+langchain-community
+pandas
+numpy
+python-dotenv
+streamlit
+faiss-cpu
+sentence-transformers
+PyPDF2
